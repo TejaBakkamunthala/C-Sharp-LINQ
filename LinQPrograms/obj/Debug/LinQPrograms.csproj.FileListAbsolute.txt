@@ -1,0 +1,7 @@
+F:\DotNetProgramss\LinQPrograms\LinQPrograms\bin\Debug\LinQPrograms.exe.config
+F:\DotNetProgramss\LinQPrograms\LinQPrograms\bin\Debug\LinQPrograms.exe
+F:\DotNetProgramss\LinQPrograms\LinQPrograms\bin\Debug\LinQPrograms.pdb
+F:\DotNetProgramss\LinQPrograms\LinQPrograms\obj\Debug\LinQPrograms.csproj.AssemblyReference.cache
+F:\DotNetProgramss\LinQPrograms\LinQPrograms\obj\Debug\LinQPrograms.csproj.CoreCompileInputs.cache
+F:\DotNetProgramss\LinQPrograms\LinQPrograms\obj\Debug\LinQPrograms.exe
+F:\DotNetProgramss\LinQPrograms\LinQPrograms\obj\Debug\LinQPrograms.pdb
